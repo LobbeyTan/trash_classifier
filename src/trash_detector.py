@@ -6,17 +6,18 @@ from matplotlib import image
 from detector import model
 import cv2
 import numpy as np
+import rospy
   
   
 if __name__ == "__main__":
+    rospy.init_node('trash_detector', anonymous=True)
+
     # Import labels
     with open('labels.txt', 'r') as file:
         labels = list(map(lambda x: x.strip(), file.readlines()))
 
     # define a video capture object
     vid = cv2.VideoCapture(2)
-
-    
     
     while(True):
         

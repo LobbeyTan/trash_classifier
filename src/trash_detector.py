@@ -6,11 +6,11 @@ from matplotlib import image
 from detector import model
 import cv2
 import numpy as np
-import rospy
+# import rospy
   
   
 if __name__ == "__main__":
-    rospy.init_node('trash_detector', anonymous=True)
+    # rospy.init_node('trash_detector', anonymous=True)
 
     # Import labels
     with open('labels.txt', 'r') as file:

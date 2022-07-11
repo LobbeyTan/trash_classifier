@@ -80,4 +80,4 @@ Run the YoloV5x detection to detect and classify objects into recycle categories
 
 ## Demo Presentation
 
-<iframe src="https://drive.google.com/file/d/16eHE4CqN81ozgB1VQ0a1EjPv4qGrF031/preview" width="640" height="480" allow="autoplay"></iframe>
+[<img src="screenshot/detection.jpg">](https://drive.google.com/file/d/16eHE4CqN81ozgB1VQ0a1EjPv4qGrF031/view?usp=sharing "LOI Demo Presentation")

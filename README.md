@@ -26,11 +26,11 @@ First you need to lauch the minimal.launch to ready the robot for movement
 
 > `roslaunch turtlebot_bringup minimal.launch`
 
-The you also need to launch the joints_bringup.launch to ready the robot for arm movement
+Then you also need to launch the joints_bringup.launch to ready the robot for arm movement
 
 > `roslaunch jupiterobot_arm_bringup joints_bringup.launch`
 
-After all the robot setups, you can run the navigation scripts. This script hardcoded the robot movements and make you you remove all the obstacles surround the robot.
+After all the robot setups, you can run the navigation scripts. This script hardcoded the robot movements and make sure you remove all the obstacles surround the robot.
 
 > `source arm_movement.sh`
 
@@ -77,3 +77,6 @@ Navigate to the src folder
 Run the YoloV5x detection to detect and classify objects into recycle categories
 
 > `python3 trash_detector.py`
+
+## Demo Presentation
+[<img src="">](https://drive.google.com/file/d/16eHE4CqN81ozgB1VQ0a1EjPv4qGrF031/view?usp=sharing "LOI Demo Presentation")

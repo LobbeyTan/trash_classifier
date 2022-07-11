@@ -86,4 +86,4 @@ https://user-images.githubusercontent.com/63460095/178314779-20dbca98-bec5-40c8-
 
 ## ROI Project Report
 
-[<img src="screenshot/report.jpg">](https://github.com/LobbeyTan/trash_detector/tree/master/report "LOI Report")
+[<img src="screenshot/report.jpg">](https://github.com/LobbeyTan/trash_detector/blob/master/report/Robotic%20LOI%20Project%20Report%20G12%20.pdf "LOI Report")
